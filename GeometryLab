@@ -1,0 +1,16 @@
+pulbic class GeometryLab {
+
+    public int f(int x, int y) {
+        return x+y;
+    }
+    
+    public int g(int x, int y) {
+        return x - y;
+    }
+    
+    public int h(int x, int y) {
+        return x * y;
+    }
+    
+    public int j(int x, int y) {
+        return x / y
